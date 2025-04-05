@@ -1,8 +1,5 @@
 ## Demo Video
-<video width="640" height="360" controls>
-  <source src="assets/05.04.2025_14.27.23_REC.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Download/View Demo Video](assets/05.04.2025_14.27.23_REC.mp4)
 
 # Game Instructions
 

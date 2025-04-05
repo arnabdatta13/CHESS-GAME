@@ -1,5 +1,6 @@
+
 ## Demo Video
-<iframe width="640" height="360" src="https://www.youtube.com/embed/dXxqVDRkbuo?si=zZvOeVJhH7Y162_q" frameborder="0" allowfullscreen></iframe>
+[![Watch Demo Video](https://img.youtube.com/vi/dXxqVDRkbuo/0.jpg)](https://www.youtube.com/watch?v=dXxqVDRkbuo)
 
 # Game Instructions
 

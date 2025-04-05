@@ -1,5 +1,5 @@
 ## Demo Video
-[Download/View Demo Video](assets/05.04.2025_14.27.23_REC.mp4)
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dXxqVDRkbuo?si=zZvOeVJhH7Y162_q" frameborder="0" allowfullscreen></iframe>
 
 # Game Instructions
 
